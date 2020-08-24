@@ -8,7 +8,7 @@
 - [x] Challenge 1.2 - [Javascript operators](src/challenge_1-2)
 - [x] Challenge 1.3 - [Javascript boleans](src/challenge_1-3)
 - [x] Challenge 1.4 - [Javascript conditions](src/challenge_1-4)
-- [x] Challenge 1.5 - [Javascript array](src/challenge_1-5)
+- [x] Challenge 1.5 - [Javascript array](src/challenge_1-5) 
 
 # :memo: License
 
