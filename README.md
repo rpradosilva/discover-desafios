@@ -1,6 +1,7 @@
 <div align="center">
     <img alt="Starter" src=".github/logo_starter.png" width="150px" />
 </div>
+
 # :rocket: Challenges
 
 - [x] Challenge 1.1 - [Getting started with JavaScript](src/challenge_1-1)
