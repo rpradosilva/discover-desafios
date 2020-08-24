@@ -1,6 +1,6 @@
 function pares(x, y) {
     for (let index = x; index <= y; index++) {
-        if (!(index % 2)) {
+        if (index % 2 == 0) {
             console.log(index)
         }
     }
