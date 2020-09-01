@@ -9,6 +9,10 @@
 - [x] Challenge 1.3 - [Javascript boleans](src/challenge_1-3)
 - [x] Challenge 1.4 - [Javascript conditions](src/challenge_1-4)
 - [x] Challenge 1.5 - [Javascript array](src/challenge_1-5) 
+- [x] Challenge 2.1 - [Javascript Create Elements](src/challenge_2-1)
+- [x] Challenge 2.2 - [Javascript AddEventListener](src/challenge_2-2)
+- [ ] Challenge 2.3 - [Awaiting](src/challenge_2-3)
+- [ ] Challenge 2.4 - [Awaiting](src/challenge_2-4)
 
 # :memo: License
 
