@@ -14,9 +14,9 @@
 - [x] Challenge 2.3 - [Create Elements and use data](src/challenge_2-3)
 - [x] Challenge 2.4 - [List, add and remove data](src/challenge_2-4)
 - [x] Challenge 3.0 - [To-do List](src/challenge_3-0)
-- [ ] :clock130: Challenge 4.1 - [JS Async](src/challenge_4-1)
-- [ ] :clock130: Challenge 4.2 - [JS Async](src/challenge_4-2)
-- [ ] :clock130: Challenge 4.3 - [JS Async](src/challenge_4-3)
+- [x] Challenge 4.1 - [Promisses](src/challenge_4-1)
+- [ ] Challenge 4.2 - [JS Async](src/challenge_4-2)
+- [ ] Challenge 4.3 - [JS Async](src/challenge_4-3)
 
 # :memo: License
 
