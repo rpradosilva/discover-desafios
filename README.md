@@ -4,6 +4,8 @@
 
 # :rocket: Challenges
 
+### **Basic Javascript**
+
 - [x] Challenge 1.1 - [objects](src/challenge_1-1)
 - [x] Challenge 1.2 - [operators](src/challenge_1-2)
 - [x] Challenge 1.3 - [boleans](src/challenge_1-3)
@@ -21,8 +23,7 @@
 # :memo: License
 
 This project is protected by the MIT license. See the file [LICENSE](/LICENSE) for more details.
-
-<div style="margin: 30px;"></div>
+<br>
 
 ---
 
