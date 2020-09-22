@@ -23,6 +23,7 @@ function importRepos() {
       let repos = response.data;
       listElement.innerHTML = "";
       for (const repo of repos) {
+        console.log(repo.clone_url);
         listRepos(repo.name);
       }
       inputElement.value = "";
