@@ -6,47 +6,6 @@
 
 ### **Basic Javascript**
 
-<table width="100%">
-    <tr>
-        <td align="center">Status</td>
-        <td align="center">Challenge</td>
-        <td>Description</td>
-        <td align="center">Result</td>
-    </tr>
-    <tr>
-        <td align="center">:white_check_mark:</td>
-        <td align="center">1.1</td>
-        <td>Objects</td>
-        <td align="center">[:card_index_dividers:](src/challenge_1-1)</td>
-    </tr>
-    <tr>
-        <td align="center">:white_check_mark:</td>
-        <td align="center">1.2</td>
-        <td>Operators</td>
-        <td align="center">[:card_index_dividers:](src/challenge_1-2)</td>
-    </tr>
-    <tr>
-        <td align="center">:white_check_mark:</td>
-        <td align="center">1.3</td>
-        <td>Boleans</td>
-        <td align="center">[:card_index_dividers:](src/challenge_1-3)</td>
-    </tr>
-    <tr>
-        <td align="center">:white_check_mark:</td>
-        <td align="center">1.4</td>
-        <td>Conditions</td>
-        <td align="center">[:card_index_dividers:](src/challenge_1-4)</td>
-    </tr>
-    <tr>
-        <td align="center">:white_check_mark:</td>
-        <td align="center">1.5</td>
-        <td>Array</td>
-        <td align="center">[:card_index_dividers:](src/challenge_1-5)</td>
-    </tr>
-</table>
-
-<br>
-
 |       Status       | Challenge | Description                  |                   Result                   |
 | :----------------: | :-------: | :--------------------------- | :----------------------------------------: |
 | :white_check_mark: |    1.1    | Objects                      | [:card_index_dividers:](src/challenge_1-1) |
@@ -64,6 +23,8 @@
 | :white_check_mark: |    4.3    | Loading and error            | [:card_index_dividers:](src/challenge_4-3) |
 
 <!-- :clock3: -->
+
+---
 
 # :memo: License
 
