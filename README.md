@@ -6,19 +6,23 @@
 
 ### **Basic Javascript**
 
-- [x] Challenge 1.1 - [objects](src/challenge_1-1)
-- [x] Challenge 1.2 - [operators](src/challenge_1-2)
-- [x] Challenge 1.3 - [boleans](src/challenge_1-3)
-- [x] Challenge 1.4 - [conditions](src/challenge_1-4)
-- [x] Challenge 1.5 - [array](src/challenge_1-5)
-- [x] Challenge 2.1 - [Create Elements](src/challenge_2-1)
-- [x] Challenge 2.2 - [AddEventListener](src/challenge_2-2)
-- [x] Challenge 2.3 - [Create Elements and use data](src/challenge_2-3)
-- [x] Challenge 2.4 - [List, add and remove data](src/challenge_2-4)
-- [x] Challenge 3.0 - [To-do List](src/challenge_3-0)
-- [x] Challenge 4.1 - [Promisses](src/challenge_4-1)
-- [x] Challenge 4.2 - [Github API](src/challenge_4-2)
-- [x] Challenge 4.3 - [Loading and error](src/challenge_4-3)
+|       Status       | Challenge | Description                  |                   Result                   |
+| :----------------: | :-------: | :--------------------------- | :----------------------------------------: |
+| :white_check_mark: |    1.1    | Objects                      | [:card_index_dividers:](src/challenge_1-1) |
+| :white_check_mark: |    1.2    | Operators                    | [:card_index_dividers:](src/challenge_1-2) |
+| :white_check_mark: |    1.3    | Boleans                      | [:card_index_dividers:](src/challenge_1-3) |
+| :white_check_mark: |    1.4    | Conditions                   | [:card_index_dividers:](src/challenge_1-4) |
+| :white_check_mark: |    1.5    | Array                        | [:card_index_dividers:](src/challenge_1-5) |
+| :white_check_mark: |    2.1    | Create Elements              | [:card_index_dividers:](src/challenge_2-1) |
+| :white_check_mark: |    2.2    | AddEventListener             | [:card_index_dividers:](src/challenge_2-2) |
+| :white_check_mark: |    2.3    | Create Elements and use data | [:card_index_dividers:](src/challenge_2-3) |
+| :white_check_mark: |    2.4    | List, add and remove data    | [:card_index_dividers:](src/challenge_2-4) |
+| :white_check_mark: |    3.0    | To-do List                   | [:card_index_dividers:](src/challenge_3-0) |
+| :white_check_mark: |    4.1    | Promisses                    | [:card_index_dividers:](src/challenge_4-1) |
+| :white_check_mark: |    4.2    | Github API                   | [:card_index_dividers:](src/challenge_4-2) |
+| :white_check_mark: |    4.3    | Loading and error            | [:card_index_dividers:](src/challenge_4-3) |
+
+<!-- :clock3: -->
 
 # :memo: License
 
