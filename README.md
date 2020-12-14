@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Starter" src=".github/logo_starter.png" width="150px" />
+    <img alt="Discover" src=".github/logo-discover.png" width="150px" />
 </div>
 
 # :rocket: Challenges
