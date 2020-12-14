@@ -4,7 +4,7 @@
 
 # :rocket: Challenges
 
-### **Basic Javascript**
+### **Basic Javascript** _(antigo Starter)_
 
 |       Status       | Challenge | Description                  |                   Result                   |
 | :----------------: | :-------: | :--------------------------- | :----------------------------------------: |
